@@ -11,3 +11,7 @@ Después lo guardamos y subimos los cambios a GitHub. Como es la primera vez que
 Creamos la rama development y realizamos algunos cambios dentro (añadimos la imagen).
 
 <img src="./captura3.png" alt="Tercer paso" title="tercer paso" />
+
+Finalmente se hace el merge y se suben los cambios a GitHub.
+
+<img src="./captura4.png" alt="Cuarto paso" title="cuarto paso" />
